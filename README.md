@@ -3,9 +3,9 @@ A place for me to attempt 2018's [Advent of Code](https://adventofcode.com/2018/
 
 [Day 1 (Python)](/solutions/day-01)
 
-<!-- [Day 2 (Python)](/solutions/day-02)
+[Day 2 (Python)](/solutions/day-02)
 
-[Day 3 (Python)](/solutions/day-03)
+<!-- [Day 3 (Python)](/solutions/day-03)
 
 [Day 4 (Python)](/solutions/day-04)
 
